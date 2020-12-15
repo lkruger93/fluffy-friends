@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+
+  display: flex;
+  flex-direction: column;
+}
+
+/*all the nav stuff is shared for every page */
+
+nav {
+  display: flex;
+  font-family: 'Nerko One',
+  cursive;
+
+  background-color: rgb(126, 33, 202);
+}
+
+.header {
+  margin-right: auto;
+  padding-left: 2rem;
+  display: flex;
+}
+
+.web-title {
+  margin: auto;
+  color:lavender;
+  font-size: 2rem;
+}
+
+.head-link {
+  color: lavender;
+  text-decoration: none;
+}
+
+/* made svg file for the logo! */
+
+.logo {
+
+  height: 10vh;
+  padding: 1ch;
+
+  margin: auto;
+
+}
+
+nav ul li {
+  list-style-type: none;
+  padding-right: 2ch;
+  flex: auto;
+  margin: auto;
+  font-size: 1.8rem;
+
+}
+
+/*for the links in the nav*/
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  text-align: right;
+  margin-right: 1ch;
+}
+
+head-link {
+  text-decoration: none;
+  color: lavender;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.opener {
+  font-family: 'Nunito',
+  sans-serif;
+  color: rgb(126, 33, 202);
+
+  text-align: center;
+}
+
+
+
+
+fieldset {
+  border: none;
+  
+}
+
+footer {
+  text-align: center;
+
+ 
+  bottom: 0;
+
+  padding-bottom: 2vh;
+  padding-top: 2vh;
+
+  background-color: rgb(126, 33, 202);
+  color:lavenderblush;
+
+  font-family: 'Nerko One',
+  cursive;
+}
+
+.mini-description {
+  display: flex;
+
+  margin-left: 2vw;
+
+}
+
+.fun-greeting {
+  font-family: 'Nerko One',
+  cursive;
+
+  color: rgb(126, 33, 202);
+
+  text-align: center;
+}
+
+.filler {
+  font-family: 'Nunito',
+  sans-serif;
+}
+
+.description-pic {
+  width: 30vw;
+  
+
+  margin-right: 2vw;
+  margin-left: 1vw;
+
+  border-radius: 5%;
+}
+
+.go-back {
+  color: rgb(57, 36, 77);
+
+  text-decoration: none;
+}
+

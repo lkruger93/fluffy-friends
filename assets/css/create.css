@@ -1,0 +1,42 @@
+.big-create {
+  display: flex;
+
+  margin-top: 5vw;
+  margin-bottom: 11vh;
+}
+
+.dog {
+  margin-left: 2vw;
+  margin-right: 2vw;
+}
+
+.build {
+  border: none;
+  font-family: 'Nerko One',
+    cursive;
+    color: rgb(126, 33, 202);
+
+}
+
+select {
+  font-family: 'Nunito',
+  sans-serif;
+}
+
+button {
+  font-family: 'Nunito',
+  sans-serif;
+  font-size: 1rem;
+  color: lavender;
+  background-color: rgb(126, 33, 202);
+
+  margin-left: 4vw;
+
+  padding: 5px;
+  border-radius: 20%;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: rgb(57, 36, 77);
+}
