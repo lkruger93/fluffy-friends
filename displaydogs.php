@@ -30,10 +30,6 @@ $sql = "SELECT * FROM dogs WHERE colour IN ('$colour') AND
    `age bracket` IN ('$agebracket')";
 
 
- // $sql = "SELECT * FROM dogs WHERE colour = '$colour' AND 
- //   temperament = '$temperament' AND size = '$size' AND 
- //   `age bracket` = '$agebracket' ";
-
 // get the result set (set of rows)
 $results = mysqli_query($conn, $sql);
 

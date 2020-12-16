@@ -40,3 +40,15 @@ button:hover {
   cursor: pointer;
   background-color: rgb(57, 36, 77);
 }
+
+.brown {
+  fill: rgb(155, 92, 41);
+}
+
+.white {
+  fill: white;
+}
+
+.black {
+  fill: rgb(22, 20, 20)
+}
