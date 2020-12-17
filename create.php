@@ -62,7 +62,7 @@
                <option value="playful">Playful</option>
              </select>
           </p>
-          <button class="dog-find">Find my dog!</button>
+          <button>Find my dog!</button>
        </fieldset>
     </form>
   </div>

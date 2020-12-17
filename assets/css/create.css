@@ -23,7 +23,7 @@ select {
   sans-serif;
 }
 
-.dog-find {
+button {
   font-family: 'Nunito',
   sans-serif;
   font-size: 1rem;
@@ -36,7 +36,7 @@ select {
   border-radius: 20%;
 }
 
-.dog-find:hover {
+button:hover {
   cursor: pointer;
   background-color: rgb(57, 36, 77);
 }
