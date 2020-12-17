@@ -22,12 +22,12 @@ if (isset($_GET['dogAge'], $_GET['colour'], $_GET['size'], $_GET['temper']))
  
   if($colour == 'any'){$colour = "black', 'brown', 'white";}
   if($size == 'any'){$size = "small', 'medium', 'large";}
-  if($agebracket == 'any'){$agebracket = "puppy', '1-4 years', '5-8 years', '9+ years";}
+  if($agebracket == 'any'){$agebracket = "puppy', '2-4 years', '5-8 years', '9+ years";}
   if($temperament == 'any'){$temperament = "couch potato', 'playful', 'high energy";}
 
 $sql = "SELECT * FROM dogs WHERE colour IN ('$colour') AND 
    temperament IN ('$temperament') AND size IN ('$size') AND 
-   `age bracket` IN ('$agebracket')";
+   `age bracket` IN ('$agebracket') ORDER BY name";
 
 
 // get the result set (set of rows)

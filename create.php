@@ -30,7 +30,7 @@
              <select name="dogAge" id = "dogAge">
                <option value = "any">Any</option>
                <option value = "puppy">Puppy</option>
-               <option value = "1-4 years">1-4 years</option>
+               <option value = "2-4 years">2-4 years</option>
                <option value = "5-8 years">5-8 years</option>
                <option value = "9+ years">9+ years</option>
              </select>

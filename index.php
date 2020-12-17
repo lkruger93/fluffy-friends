@@ -35,7 +35,7 @@
     </div>
   </div>
 
-  <h2 class="opener">Convinced?  Start <a class="go-back" href="create.php">creating your perfect dog</a> now!</h2>
+  <h2 class="opener">Convinced?  Start <a class="go-back" href="create.php">creating your perfect dog now!</a></h2>
 
   
   <?php include('includes/partials/footer.php');?>

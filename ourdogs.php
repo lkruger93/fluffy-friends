@@ -14,7 +14,7 @@
 
 // Execute retrieval to fetch all dogs requested
 
-  $sql = "SELECT * FROM dogs";
+  $sql = "SELECT * FROM dogs ORDER BY name";
 
 // get the result set (set of rows)
 $results = mysqli_query($conn, $sql);
