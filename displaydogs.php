@@ -64,11 +64,13 @@ if (mysqli_num_rows($results) == 0)
    <li>Temperament: <?php echo $dogslist['temperament']?></li>
    
    </ul>
+   
    </div>
    
 
 <?php endforeach; ?>
 <h2 class="opener">Not what you were looking for? <a class="go-back" href="create.php">Go back to Create-a-Dog</a> or view <a class="go-back" href="ourdogs.php">all our dogs!</a></h2>
+<h2 class="opener">Ready to adopt? visit our <a href="contact.php">Contact Us</a> page to schedule a meeting!</h2>
 </div>
 <?php 
 // free the $result from memory (good practice)

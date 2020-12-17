@@ -11,8 +11,11 @@
   <div class="mini-description">
     <div class="much-text">
     <h3 class="fun-greeting">Welcome to Fluffy Friend Finder!</h3>
-    <p class="filler">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec nisi quis leo eleifend rutrum eu in mi. Cras fringilla enim leo. Aliquam erat volutpat. Donec sed elit ac urna suscipit vehicula. Suspendisse ut tellus tempor arcu pulvinar tincidunt et in sapien. Ut id lorem quis turpis fermentum mollis. Maecenas elementum lectus ac ornare rutrum. Praesent porta pharetra hendrerit. Suspendisse ultricies turpis sit amet purus eleifend, eget congue eros malesuada. Etiam nisi urna, dignissim at arcu quis, vestibulum tristique ipsum. Donec sagittis, lectus sed convallis congue, risus neque commodo urna, nec sagittis enim ligula scelerisque sapien. Suspendisse consequat lorem eget lobortis viverra.
+    <p class="filler">We at Fluffy Friend Finder are committed to finding homes for every dog who comes to us.  Regardless of size, breed, gender or colour we have put in place a unique and easy to use system that will match dogs of all types to the people who want them.
     </p>
+    <p class="filler">Every year thousands of animals go homeless and our dedicated team makes every possible effort to take those dogs and match them with people who will love them forever.  To date we have adopted out over 1000 dogs and plan to never stop until every dog has a home!</p>
+    <p class="filler">Our team is happy to partner with all shelters to advertise their dogs, making Fluffy Friend Finder an ideal place to look for your perfect dog without the effort of scouring multiple shelters' websites!</p>
+    <p class="filler">We hope, with the help of sponsors, our vision of no animal left without a home can be one day realized forever!</p>
     </div>
     <img src="assets/images/sadpuppy.jpg" alt="sad puppy" class="description-pic">
   </div>

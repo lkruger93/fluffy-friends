@@ -46,6 +46,7 @@ $selectdogs = mysqli_fetch_all($results, MYSQLI_ASSOC);
 
 <?php endforeach; ?>
  </div>
+ <h2 class="opener">Ready to adopt? visit our <a href="contact.php">Contact Us</a> page to schedule a meeting!</h2>
 <?php 
 // free the $result from memory (good practise)
 mysqli_free_result($results);
